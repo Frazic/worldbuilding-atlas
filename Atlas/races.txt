@@ -1,0 +1,3 @@
+{"version":"1.2.8","db_type":"idb","start_time":"2021-07-04T20:38:44.929Z","db_info":{"doc_count":0,"update_seq":1,"idb_attachment_format":"binary","db_name":"races","auto_compaction":false,"adapter":"idb"}}
+{"docs":[{"_deleted":true,"_id":"2f19f4fd-e0aa-45cf-aef7-09a22ecc90c4","_rev":"4-3e385249182dc8873583f677dec129f2","_revisions":{"start":4,"ids":["3e385249182dc8873583f677dec129f2","2ec0a5c4a86612f09f18e8cab70ab813","7945e67a2e4d9ef515572ad0857a4d02","1bfee36de9f8b9a77690418e61e1e8fc"]}}]}
+{"seq":1}
